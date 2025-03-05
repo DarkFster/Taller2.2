@@ -9,4 +9,5 @@
     <string name="aventura">La aventura esta por iniciar, por favor inicia sesion</string>
     <string name="ingresa_google">Ingresa con Google</string>
     <string name="no_cuenta">No tienes cuenta?</string>
+    <string name="recucontra">Para recuperar la contraseña se necesita un correo previamente registrado</string>
 </resources>
